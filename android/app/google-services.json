@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "398855747698",
+    "project_id": "lesson66-60ca6",
+    "storage_bucket": "lesson66-60ca6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398855747698:android:27b5afd9dc9fba5a1e2aeb",
+        "android_client_info": {
+          "package_name": "com.example.lesson66_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1ltTwu2OjFyh6q2u1BcvzRQD3pZyDXeg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
